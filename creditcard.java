@@ -2,6 +2,7 @@
  * Once the authenticity is verified, the program prints out the company of the credit card.
  * Currently supports American Express, MasterCard, and Visa cards.
  * 
+ * Date: April 28, 2020
  * @author Siddhardh Palaparthi
  */
 
